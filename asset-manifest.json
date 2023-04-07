@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CatFish/static/css/main.756af292.css",
-    "main.js": "/CatFish/static/js/main.83c8cc44.js",
+    "main.js": "/CatFish/static/js/main.ec71824f.js",
     "static/js/787.34115356.chunk.js": "/CatFish/static/js/787.34115356.chunk.js",
     "static/media/catFish3.jpg": "/CatFish/static/media/catFish3.cc67070aab7e9a4d2cad.jpg",
     "static/media/catFish4.jpg": "/CatFish/static/media/catFish4.d73324f918bd88f9d61f.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/CatFish/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CatFish/index.html",
     "main.756af292.css.map": "/CatFish/static/css/main.756af292.css.map",
-    "main.83c8cc44.js.map": "/CatFish/static/js/main.83c8cc44.js.map",
+    "main.ec71824f.js.map": "/CatFish/static/js/main.ec71824f.js.map",
     "787.34115356.chunk.js.map": "/CatFish/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.83c8cc44.js"
+    "static/js/main.ec71824f.js"
   ]
 }
